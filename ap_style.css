@@ -1,0 +1,56 @@
+    body { 
+        background-color: black; /* default background color black */
+            color: white; /* default font white */
+    }
+    .table-cell { 
+        border: 1px solid white; /* cell border white */
+        text-align: center; /* text inside cell center */
+    }
+    h1 {
+        color: white;
+    }
+    body.dark-mode { /* if user click 'Dark Mode' background will switch from default dark background to white background and font vice versa */
+        background-color: #fff; /* white */
+        color: #000; /* black */
+    }
+     
+    #darkModeButton { /* 'Dark Mode' Btn size */
+        width: 90px; 
+        height: 30px; 
+    }
+    
+    #planlotBtn { /* planlot Btn size */
+        width: 90px; 
+        height: 50px;
+    }
+    
+
+    #ImportAutoJITBtn { /* Upload AutoJit Btn size */
+        width: 137px; 
+        height: 50px; 
+    }
+
+    #upstock { /* choose Btn size */
+        width: 900px; 
+        height: 20px; 
+    }
+    
+	#sharedfolder { /* 'To access SOP user's manual, ...' position  */
+    position: relative;
+    top: -370px; 
+    margin-left: -4px;
+    }
+    #sharedfolderaddress { /* SOP link position  */
+        position: relative;
+        top: -360px; 
+        margin-left: -1138px;
+    }
+    #copylinkposition { /* 'Copy Link' Btn position  */
+        position: relative;
+        top: -412px; 
+        margin-left: 187px;
+    }
+    #copylinkbtn{ /* 'Copy Link' Btn size  */
+        width: 75px; 
+        height: 30px; 
+    }

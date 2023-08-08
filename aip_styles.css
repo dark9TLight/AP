@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+        color: white;
+}
+
+.table-cell {
+    border: 1px solid white;
+    text-align: center;
+}
+body.dark-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+ 
+#darkModeButton { /* 'Dark Mode' Btn size */
+    width: 90px; 
+    height: 30px; 
+}
+
+#planlotBtnContainerUser { /* user 'Planlot' Btn position */
+    position: relative;
+    top: -145px; 
+    margin-left: 1720px;
+}
+#planlotBtn { /* 'Planlot' Btn size */
+    width: 90px; 
+    height: 45px;
+}
+
+#myInputUser { /* user planlot textbox Input position & size */
+    position: relative;
+    top: -100px; 
+    margin-left: 980px;
+    width: 730px;
+    height: 40px; 
+}
+#ImportAutoJITBtnContainer { /* 'Upload' iMap Btn */
+    position: relative;
+    top: -30px; 
+    margin-left: 410px;
+}
+#ImportAutoJITBtnContainerautojit { /* 'Upload' AutoJit Btn */
+    position: relative;
+    top: -545px; 
+    margin-left: 1310px;
+}
+#ImportAutoJITBtn { /* 'Upload' iMap Btn size */
+    width: 130px; 
+    height: 40px; 
+}
+#ImportAutoJITBtnautojit { /* 'Upload' AutoJit Btn size */
+    width: 130px; 
+    height: 40px; 
+}
+#chooseFileBtnContainer { /* 'choose file' iMap Btn position */
+    position: relative;
+    top: -45px; 
+    margin-left: 100px;
+}
+
+#upstock { /* 'choose file' iMap Btn size */
+    width: 900px; 
+    height: 20px; 
+}
+#AutoJITPivotBtnContainer { /* 'AutoJIT iMap Pivot (AIP)' title position */
+    position: relative;
+    top: -35px; 
+    margin-left: 250px;
+}
+#sharedfolder { /* 'To access SOP user's manual, ...' position */
+    position: relative;
+    top: -1189px; 
+    margin-left: -4px;
+}
+#sharedfolderaddress { /* link SOP position  */
+    position: relative;
+    top: -260px; 
+    margin-left: -1138px;
+}
+#copylinkposition { /* 'Copy Link' Btn position  */
+    position: relative;
+    top: -1231px; 
+    margin-left: 187px;
+}
+#copylinkbtn{ /* 'Copy Link' Btn size */
+    width: 75px; 
+    height: 30px; 
+}
